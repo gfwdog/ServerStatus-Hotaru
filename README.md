@@ -20,7 +20,7 @@ Test v0.021：头图来源：Pixiv：72725286
 服务端：
 
 ```bash
-wget https://raw.githubusercontent.com/CokeMine/ServerStatus-Hotaru/master/status.sh
+wget https://raw.githubusercontent.com/gfwdog/ServerStatus-Hotaru/master/status.sh
 bash status.sh s
 ```
 
@@ -60,6 +60,7 @@ bash status.sh c
 当然前端可以自己自定义。
 
 ## 相关开源项目 ： 
+* ServerStatus-Hotaru:https://github.com/CokeMine/ServerStatus-Hotaru
 * ServerStatus-Toyo：https://github.com/ToyoDAdoubiBackup/ServerStatus-Toyo
 * ServerStatus：https://github.com/BotoX/ServerStatus
 * mojeda's ServerStatus: https://github.com/mojeda/ServerStatus
